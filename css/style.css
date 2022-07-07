@@ -486,10 +486,6 @@ section[id]{ /*Permite movernos entre enlaces por medio de los section que tenga
         grid-template-columns: repeat(1, 1fr);
     }
 
-    .proyectos div:nth-child(3){
-        display: none;
-    }
-
     .skills{
         grid-template-columns: repeat(3, 1fr);
     }
